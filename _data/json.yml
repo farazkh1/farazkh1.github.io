@@ -1,9 +1,13 @@
-- key: Contact
+- key: Contact: Faraz Khojasteh Far
   value:
     - key: Office
       value: Hinman Building, Room 210
-    - key: Phone
-      value: +1 234 567 890
     - key: Email
-      value: batvault@duck.com
+      value: Say hi!
       url: "mailto:batvault@duck.com"
+      - key: Linkedin
+      value: Link
+      url: "www.linkedin.com/in/farazkhojastehfar"
+        - key: Google Scholar
+      value: Link
+      url: "https://scholar.google.com/citations?user=LE3e_lwAAAAJ&hl=en"
