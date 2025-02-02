@@ -1,9 +1,9 @@
 - key: Contact
   value:
     - key: Office
-      value: Foobar Hall 1.23
+      value: Hinman Building, Room 210
     - key: Phone
       value: +1 234 567 890
     - key: Email
-      value: username@domain.com
-      url: "mailto:username@domain.com"# empty
+      value: batvault@duck.com
+      url: "mailto:batvault@duck.com"
