@@ -5,9 +5,9 @@
     - key: Email
       value: Say hi!
       url: "mailto:batvault@duck.com"
-      - key: Linkedin
+    - key: Linkedin
       value: Link
       url: "https://www.linkedin.com/in/farazkhojastehfar"
-        - key: Google Scholar
+    - key: Google Scholar
       value: Link
-      url: "https://https://scholar.google.com/citations?user=LE3e_lwAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=LE3e_lwAAAAJ&hl=en"
