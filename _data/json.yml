@@ -3,11 +3,11 @@
     - key: Office
       value: Hinman Building, Room 210
     - key: Email
-      value: Say hi!
+      value: Say_hi
       url: "mailto:batvault@duck.com"
     - key: Linkedin
       value: Link
       url: "https://www.linkedin.com/in/farazkhojastehfar"
-    - key: Google Scholar
+    - key: Google_Scholar
       value: Link
       url: "https://scholar.google.com/citations?user=LE3e_lwAAAAJ&hl=en"
